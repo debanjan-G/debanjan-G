@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"  src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://static.vecteezy.com/system/resources/previews/004/865/921/non_2x/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg)">
+<img align="right" alt="Coding" width="400"  src="https://static.vecteezy.com/system/resources/previews/004/865/921/non_2x/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **debanjanghosal10@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFmeaQ42RE/LLf26wZliFHrHd9CJKWRdg/edit?utm_content=DAFmeaQ42RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFmeaQ42RE/LLf26wZliFHrHd9CJKWRdg/edit?utm_content=DAFmeaQ42RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://drive.google.com/file/d/1KvV8mQUibDg18i2iosfXjjYqj0dj6lyH/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
