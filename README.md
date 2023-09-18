@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **debanjanghosal10@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1KvV8mQUibDg18i2iosfXjjYqj0dj6lyH/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1u3YexvO9bZND80qP_YL1XCJnX8ibHNrf/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
