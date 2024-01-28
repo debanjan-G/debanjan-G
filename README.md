@@ -1,4 +1,7 @@
-<p align="center"> <img src="![Cover image github](https://github.com/debanjan-G/debanjan-G/assets/130127260/49a0bc2d-261a-4fe5-84d4-c07da3183666)
+<p align="center">
+  <img src="https://github.com/debanjan-G/debanjan-G/blob/main/assets/130127260/49a0bc2d-261a-4fe5-84d4-c07da3183666.jpg" alt="Cover image github">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
 <h3 align="center">A passionate web developer from India</h3>
