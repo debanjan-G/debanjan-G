@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.canva.com/design/DAF7L85y61g/3Ie9bBJJvD0QtXdX1shQaA/view?utm_content=DAF7L85y61g&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="debanjan-g" /> </p>
+<p align="center"> <img src="![Cover image github](https://github.com/debanjan-G/debanjan-G/assets/130127260/49a0bc2d-261a-4fe5-84d4-c07da3183666)
 
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
 <h3 align="center">A passionate web developer from India</h3>
