@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Cover image github](https://github.com/debanjan-G/debanjan-G/assets/130127260/c82fcbcf-44da-431a-a981-d345d6e66186)" alt="Cover image github">
+  <img src="https://github.com/debanjan-G/debanjan-G/blob/main/Cover%20image%20github.jpg?raw=true" alt="Cover image github">
 </p>
 
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
