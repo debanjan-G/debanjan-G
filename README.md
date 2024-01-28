@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/debanjan-G/debanjan-G/raw/main/assets/130127260/49a0bc2d-261a-4fe5-84d4-c07da3183666.jpg" alt="Cover image github">
+  <img src="https://raw.githubusercontent.com/debanjan-G/debanjan-G/main/assets/130127260/49a0bc2d-261a-4fe5-84d4-c07da3183666.jpg" alt="Cover image github">
 </p>
+
 
 
 
