@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.canva.com/design/DAF7L85y61g/fNLXK6ihw7p_nk2SdC6PpA/edit?utm_content=DAF7L85y61g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="debanjan-g" /> </p>
+<p align="center"> <img src="https://www.canva.com/design/DAF7L85y61g/3Ie9bBJJvD0QtXdX1shQaA/view?utm_content=DAF7L85y61g&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="debanjan-g" /> </p>
 
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
 <h3 align="center">A passionate web developer from India</h3>
