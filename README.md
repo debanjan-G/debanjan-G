@@ -11,7 +11,7 @@ An engineering student and committed React developer with hands-on experience in
 </p>
 
 # 💫 About Me
-Improving my proficiency in React and building projects to apply and reinforce my learning. Open to collaboration on projects related to web development, particularly those utilizing React. Open to mentorship or advice from experienced developers. Actively enhancing my skills in React and planning to delve into Spring Boot in the near future. Feel free to ask me anything related to React development, JavaScript, or web development in general. Happy to share insights on my learning journey and experiences. I enjoy watching MMA and Football.
+Passionate full-stack web developer focusing on honing skills in React while actively exploring Node.js, Express.js, MongoDB, and other backend technologies. Seeking collaboration opportunities on web development projects. Open to mentorship and eager to share insights on React, JavaScript, and web development. Also, enjoy watching MMA and Football. Let's connect! 🚀
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjan-ghosal-89a04b253/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DevDebanjan)
