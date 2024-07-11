@@ -27,16 +27,6 @@ Passionate full-stack web developer focusing on honing skills in React while act
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debanjan-G&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
