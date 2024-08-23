@@ -4,10 +4,8 @@
 
 # 👋 Hello, I'm Debanjan Ghosal!
 
-Software Engineering student and dedicated web developer with hands-on experience in the MERN stack and actively enhancing skills and deepening expertise in Next.js.
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF">
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF">
 </p>
 
 ## 💫 About Me
@@ -90,7 +88,7 @@ I'm Debanjan Ghosal, a 3rd-year engineering student and full-stack developer spe
 
 <br/>
 
-## WakaTime Stats  
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
+## Wakatime Stats
+<p align='center'>
+<img src="https://wakatime.com/share/@018b8ab8-2d2a-413d-a9cb-fd86a45cf2e9/1bcfecfd-9a3b-4c17-a765-2067c6a68885.svg" height='400'/>
+</p>
