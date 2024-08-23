@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/debanjan-G/debanjan-G/blob/main/Cover%20image%20github.jpg?raw=true" alt="Cover Image">
+  <img src="https://private-user-images.githubusercontent.com/130127260/360826797-cbcd4794-3e47-4f37-84c7-0b5a02a4011d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQzOTc2NjEsIm5iZiI6MTcyNDM5NzM2MSwicGF0aCI6Ii8xMzAxMjcyNjAvMzYwODI2Nzk3LWNiY2Q0Nzk0LTNlNDctNGYzNy04NGM3LTBiNWEwMmE0MDExZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyM1QwNzE2MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODlhZmMwNDc0MWU1YjRjZjY1NWJmZWMwMzhkZGM5OGQ3ZGIxNmIzYmFiNGEzYjdhZTVmZThjNTNmMGQwNjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.julv5olxB6eF15zVVH-Ug7xC9YZecV8mBfkb2E1SZ44" alt="Cover Image">
 </p>
 
 # 👋 Hello, I'm Debanjan Ghosal!
