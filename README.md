@@ -72,6 +72,13 @@ I'm Debanjan Ghosal, a 3rd-year engineering student and full-stack developer spe
 
 <br/>  
 
+![debanjan-G's Stats](https://github-readme-stats.vercel.app/api?username=debanjan-G&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![debanjan-G's Streak](https://github-readme-streak-stats.herokuapp.com/?user=debanjan-G&theme=tokyonight&hide_border=false)
+![debanjan-G's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-G&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+<br/>
+
+
 ## Trophies  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=debanjan-G&theme=monokai&margin-w=15&margin-h=15" alt="GitHub Trophies">
