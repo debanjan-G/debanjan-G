@@ -12,9 +12,9 @@
 ## 💫 About Me
 I'm Debanjan Ghosal, a 3rd-year engineering student and full-stack developer specializing in Next.js. I prefer frontend work but can also handle backend development with Node.js and MongoDB.
 
-- 🔭 I’m currently working on Personal Projects  
+- 🔭 I’m currently working on Projects  
 - 🌱 I’m currently learning Typescript 
-- ❓ Ask me about anything related to the MERN stack and related technologies  
+- ❓ Ask me about anything related to building websites  
 - ⚡ Fun fact: I use tabs over spaces  
 
 <br/>  
