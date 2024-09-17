@@ -19,6 +19,10 @@ I'm Debanjan Ghosal, a 3rd-year engineering student and developer specializing i
 
 <br/>  
 
+https://www.pinterest.com/pin/643451865504790507/
+
+<br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
