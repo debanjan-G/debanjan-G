@@ -5,7 +5,8 @@
 # 👋 Hello, I'm Debanjan Ghosal!
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="800">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding GIF 2" width="300"/>
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" width="300"/>
 </p>
 
 
@@ -17,11 +18,6 @@ I'm Debanjan Ghosal, a 3rd-year engineering student and developer specializing i
 - ❓ Ask me about anything related to building websites  
 - ⚡ Fun fact: I use tabs over spaces  
 
-<br/>  
-
-<p align="center">
- <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding GIF 2">
-</p>
 
 <br/>
 
