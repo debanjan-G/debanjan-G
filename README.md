@@ -16,7 +16,7 @@
 I'm Debanjan Ghosal, a 3rd-year engineering student and developer specializing in Next.js. I prefer frontend work but can also handle backend development with Node.js and MongoDB.
 
 - 🔭 I’m currently working on Projects  
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning postgreSQL 
 - ❓ Ask me about anything related to building websites  
 - ⚡ Fun fact: I use tabs over spaces  
 
