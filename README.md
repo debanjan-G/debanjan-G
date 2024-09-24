@@ -1,5 +1,5 @@
 <p align="center">
-![Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/65201881-763b-4cc7-9e54-e10f2b0d7f94)
+https://github.com/user-attachments/assets/65201881-763b-4cc7-9e54-e10f2b0d7f94
 
 </p>
 
