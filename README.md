@@ -10,7 +10,7 @@
  
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding GIF" style="height: 300px; width: auto; margin-right: 20px;"/>
 
-   <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Coding GIF 2" style="height: 300px; width: auto; margin-right: 20px;"/>
+   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coding GIF 2" style="height: 300px; width: auto; margin-right: 20px;"/>
 </p>
 
 
