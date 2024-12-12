@@ -9,9 +9,6 @@
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- First Coding GIF -->
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Coding GIF 1" style="height: 300px; width: auto;" />
-  
-  <!-- Second Coding GIF -->
-  <img src="https://i.pinimg.com/originals/e0/cf/be/e0cfbe7818f6d5f7d657b17b054175d4.gif" alt="Coding GIF 2" style="height: 300px; width: auto;" />
 </p>
 
 
