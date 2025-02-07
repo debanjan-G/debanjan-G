@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">I'm Debanjan Ghosal, a 3rd-year engineering student specializing in Next.js, passionate about frontend development, with backend experience in Node.js and MongoDB.</h3>
+<h3 align="center">I'm Debanjan Ghosal, a pre-final year engineering student specializing in Next.js, passionate about frontend development, with backend experience in Node.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" /> </p>
 
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76114nfrzd80v40flolmexflhbriupq7ik8ycnoay8n2&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding-gif-1" width="49%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5N3F4MXllNHdjbGVybXlhbHFwOHY2YnJjd3BvYzA0Y201MTgxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="coding-gif-1" width="49%">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3N2RxZm1sZGxpNmNkNGtoc3Roa29rdDNseDN4Zm5kZngwM2cxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="coding-gif-2" width="49%">
 </div>
 
