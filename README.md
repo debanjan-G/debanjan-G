@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm Debanjan Ghosal, a 3rd-year engineering student specializing in Next.js, passionate about frontend development, with backend experience in Node.js and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-g" alt="debanjan-g" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76114nfrzd80v40flolmexflhbriupq7ik8ycnoay8n2&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding-gif-1" />
 
 ---
 
@@ -96,9 +98,9 @@ I'm Debanjan Ghosal, a 3rd-year engineering student and developer specializing i
 
 ## Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/debanjan ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan ghosal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debanjan-ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan ghosal" height="30" width="40" /></a>
 <a href="https://hashnode.com/@debanjann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@debanjann" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/debanjann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debanjann/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/debanjann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debanjann/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@debanjan ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@debanjan ghosal" height="30" width="40" /></a>
 </p>
 
