@@ -7,7 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76114nfrzd80v40flolmexflhbriupq7ik8ycnoay8n2&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding-gif-1" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b76114nfrzd80v40flolmexflhbriupq7ik8ycnoay8n2&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding-gif-1" width="49%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3N2RxZm1sZGxpNmNkNGtoc3Roa29rdDNseDN4Zm5kZngwM2cxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="coding-gif-2" width="49%">
+</div>
+
+
 
 ---
 
