@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">I'm Debanjan Ghosal, a pre-final year engineering student specializing in Next.js, passionate about frontend development, with backend experience in Node.js.</h3>
+<h3 align="center">I'm Debanjan Ghosal, a engineering student who loves building things for the web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" /> </p>
 
