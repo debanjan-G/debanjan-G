@@ -1,26 +1,36 @@
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">I'm Debanjan Ghosal, a engineering student who loves building things for the web</h3>
+<h3 align="center">I'm Debanjan Ghosal, an engineering student who loves building things for the web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-g" alt="debanjan-g" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=debanjan-g" alt="debanjan-g" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM5N3F4MXllNHdjbGVybXlhbHFwOHY2YnJjd3BvYzA0Y201MTgxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="coding-gif-1" width="49%">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3N2RxZm1sZGxpNmNkNGtoc3Roa29rdDNseDN4Zm5kZngwM2cxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="coding-gif-2" width="49%">
 </div>
 
-
-
 ---
 
 ## 💫 About Me
-I'm Debanjan Ghosal, a engineering student and developer
+I'm Debanjan Ghosal, an engineering student and developer
 
+- 💼 Currently working on multiple backend engineering projects for international clients — reach out at **debanjanghoshal10@gmail.com** to request services
 - ❓ Ask me about **building websites and problem solving**  
 - ⚡ Fun fact: I use tabs over spaces  
+
 
 ---
 
@@ -67,7 +77,7 @@ I'm Debanjan Ghosal, a engineering student and developer
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 ---
 
@@ -101,15 +111,23 @@ I'm Debanjan Ghosal, a engineering student and developer
 
 ## Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/debanjan-ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan ghosal" height="30" width="40" /></a>
-<a href="https://hashnode.com/@debanjann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@debanjann" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/debanjann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/debanjann/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@debanjan ghosal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@debanjan ghosal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/debanjan-ghosal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan ghosal" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/@debanjann" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@debanjann" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/debanjann/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debanjann" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@debanjan ghosal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@debanjan ghosal" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 📫 How to Reach Me
-- Email: **debanjanghosal10@gmail.com**
+- Email: **debanjanghoshal10@gmail.com**
 - LinkedIn: [debanjan ghosal](https://linkedin.com/in/debanjan ghosal)
 - Portfolio: [View My Portfolio](https://www.canva.com/design/DAFmeaQ42RE/LLf26wZliFHrHd9CJKWRdg/edit?utm_content=DAFmeaQ42RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
