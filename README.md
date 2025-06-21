@@ -129,5 +129,5 @@ I'm Debanjan Ghosal, an engineering student and developer
 
 ## 📫 How to Reach Me
 - Email: **debanjanghoshal10@gmail.com**
-- LinkedIn: [debanjan ghosal](https://linkedin.com/in/debanjan ghosal)
+- LinkedIn: [debanjan ghosal](https://www.linkedin.com/in/debanjan-ghosal/)
 - Portfolio: [View My Portfolio](https://www.canva.com/design/DAFmeaQ42RE/LLf26wZliFHrHd9CJKWRdg/edit?utm_content=DAFmeaQ42RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
