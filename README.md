@@ -27,7 +27,7 @@
 ## 💫 About Me
 I'm Debanjan Ghosal, an engineering student and developer
 
-- 💼 Currently working on multiple backend engineering projects for international clients — reach out at **debanjanghoshal10@gmail.com** to request services
+- 💼 Working as a freelance backend engineer for clients in India and overseas
 - ❓ Ask me about **building websites and problem solving**  
 - ⚡ Fun fact: I use tabs over spaces  
 
