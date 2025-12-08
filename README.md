@@ -109,6 +109,6 @@ I'm Debanjan Ghosal, a software developer
 ---
 
 ## 📫 How to Reach Me
-- Email: **debanjanghoshal10@gmail.com**
+- Email: **debanjanghoshal.work@gmail.com**
 - LinkedIn: [debanjan ghosal](https://www.linkedin.com/in/debanjan-ghosal/)
 - Portfolio: [View My Portfolio](https://www.canva.com/design/DAFmeaQ42RE/LLf26wZliFHrHd9CJKWRdg/edit?utm_content=DAFmeaQ42RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
