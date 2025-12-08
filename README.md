@@ -6,12 +6,6 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=debanjan-g" alt="debanjan-g" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
@@ -79,11 +73,6 @@ I'm Debanjan Ghosal, an engineering student and developer
 
 </td></tr></table>
 
-
-## Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=debanjan-G&theme=monokai&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
 
 ---
 
