@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">I'm Debanjan Ghosal, an engineering student who loves building things for the web</h3>
+<h3 align="center">I build web apps and backend systems. Get in touch to understand my work better.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=debanjan-g&label=Profile%20views&color=0e75b6&style=flat" alt="debanjan-g" />
@@ -79,14 +79,6 @@ I'm Debanjan Ghosal, an engineering student and developer
 
 </td></tr></table>
 
----
-
-## 📊 GitHub Stats
-![debanjan-G's Stats](https://github-readme-stats.vercel.app/api?username=debanjan-G&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![debanjan-G's Streak](https://github-readme-streak-stats.herokuapp.com/?user=debanjan-G&theme=tokyonight&hide_border=false)
-![debanjan-G's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-G&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
----
 
 ## Trophies  
 <div align="center">
