@@ -19,9 +19,9 @@
 ---
 
 ## 💫 About Me
-I'm Debanjan Ghosal, an engineering student and developer
+I'm Debanjan Ghosal, a software developer
 
-- 💼 Working as a freelance backend engineer for clients in India and overseas
+- 💼 Working as a freelance software developer for clients in India and overseas
 - ❓ Ask me about **building websites and problem solving**  
 - ⚡ Fun fact: I use tabs over spaces  
 
