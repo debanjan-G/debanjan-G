@@ -21,8 +21,9 @@
 ## 💫 About Me
 I'm Debanjan Ghosal, a software developer
 
-- 💼 Working as a freelance software developer for clients in India and overseas
-- ❓ Ask me about **building websites and problem solving**  
+- 💼 Working as a software developer for clients in India and overseas
+- ❓ Ask me about **building websites and problem solving**
+- 🛠️ I handle both frontend and backend stuff — UI, APIs, databases
 - ⚡ Fun fact: I use tabs over spaces  
 
 
